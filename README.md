@@ -27,3 +27,17 @@ Si vous souhaitez modifier le code :
 1. Clonez le dépôt :
    ```bash
    git clone [https://github.com/VOTRE-PSEUDO/NOM-DU-REPO.git](https://github.com/VOTRE-PSEUDO/NOM-DU-REPO.git)
+
+2. Installer les dépendances :
+   ```bash
+   pip install -r requirements
+
+3. Lancer l'application:
+   ```bash
+   python main.py
+
+# 🛠 Technologies
+   . Python 3.10
+   . PyQt6 (Interface graphique)
+
+
