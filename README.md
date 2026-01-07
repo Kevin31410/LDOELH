@@ -38,6 +38,7 @@ Si vous souhaitez modifier le code :
 
 # 🛠 Technologies
    . Python 3.10
+   
    . PyQt6 (Interface graphique)
 
 
